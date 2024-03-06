@@ -1,0 +1,10 @@
+
+===========================
+FilmFix App Menu
+........................
+1. Add a record
+2. Delete a record
+3. Amend a record
+4. Report (Genre, Year, Rating or All)
+5. Exit
+===========================
