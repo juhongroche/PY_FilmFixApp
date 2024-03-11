@@ -1,2 +1,2 @@
 # PY_FilmFixApp
- Python database app project
+ A search/report app for film data using Python, Database(SQL)
